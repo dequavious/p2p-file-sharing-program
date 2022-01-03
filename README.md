@@ -54,7 +54,7 @@ $ mvn compile
 ```
 $ mvn exec:java -Dexec.mainClass=server.ServerMain
 ```
-2. Once the server has started, everyone can start their client using:
+3. Once the server has started, everyone can start their client using:
 ```
 $ mvn exec:java -Dexec.mainClass=client.ClientMain
 ```
