@@ -1,4 +1,4 @@
-# P2P File Sharing Program
+# P2P file sharing application
 ## Requirements
 ### Apache Maven
 
