@@ -28,6 +28,7 @@ $ sudo hamachi login
 $ sudo hamachi create <network name> <password>
 ```
 **NOTE** This will automatically connect you to your network that you created.
+
 3. Others can join your network, using:
 ```
 $ sudo hamachi join <network name> <password>
